@@ -1,0 +1,3 @@
+/Users/omarosama/Desktop/big/BIGreal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/omarosama/Desktop/big/BIGreal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarosama/Desktop/big/BIGreal/cmake-build-debug/CMakeFiles/BIGreal.dir
