@@ -1,7 +1,7 @@
 # BIGreal
 BIGreal library is a solution for c++ limitations at
 ***Real numbers***
-###*what in BIGreal :Thinkin face:* 
+### *what in BIGreal 🤔* 
 BIGreal is a **C++** class with some functions and overloading
 some operators like 
 
@@ -11,17 +11,16 @@ some operators like
 4. size function
 
 at this library we use another library
-###BigDecimalInt
-####Authors 
+### BigDecimalInt
+#### Authors 
 1. Basmala Mohamed Sayed
 2. Aya Ali Hassan 
 3. Mohamed Ashraf Fahim
 
-####Authors for BIGreal
+#### Authors for BIGreal
 
 1. *Omar Osma*
 2. *Eslam Sayed*
 
-#####all rights reserved © 2022
-![logo](logo.png)
-
+##### all rights reserved © 2022
+<img src="logo.png" alt="drawing" width="400"/>
