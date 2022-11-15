@@ -19,8 +19,8 @@ at this library we use another library
 
 #### Authors for BIGreal
 
-1. *Omar Osma*
-2. *Eslam Sayed*
+1. ***`Omar Osama`***
+2. ***`Eslam Sayed`***
 
 ##### all rights reserved © 2022
 <img src="logo.png" alt="drawing" width="400"/>
